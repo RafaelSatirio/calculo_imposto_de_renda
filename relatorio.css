@@ -1,0 +1,23 @@
+body{
+    font: normal 18pt Arial;
+    background: aqua;
+}
+
+div#relatorio{
+    width: 800px;
+    height: 370px;
+    background: orange;
+    border-radius: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    margin-left: 5%;
+}
+
+p{
+    margin-left: 5%;
+}
