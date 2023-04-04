@@ -29,4 +29,4 @@ document.write("<p><strong>Nome:</strong> " + nome + "</p>");
 document.write("<p><strong>CPF:</strong> " + cpf + "</p>");
 document.write("<p><strong>Rendimento Anual:</strong> R$ " + renda.toFixed(2) + "</p>");
 document.write("<p><strong>Alíquota:</strong> " + (aliquota * 100).toFixed(2) + "%</p>");
-document.write("<p><strong>Imposto a Pagar:</strong> R$ " + imposto.toFixed(2) + "</p>");
+
